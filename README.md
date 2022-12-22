@@ -18,3 +18,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nattyengeda#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nattyengeda#gh-dark-mode-only)
+
+---
+
+### Languages and Tools:
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
