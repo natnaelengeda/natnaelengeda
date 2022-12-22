@@ -6,18 +6,15 @@
 - 🕸  Portfolio 👉 [nattyengeda.github.io](https://nattyengeda.github.io)
 - 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
 ---
-### Connect With ME: 
-<!--
-**NattyEngeda/nattyengeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me:
+[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
