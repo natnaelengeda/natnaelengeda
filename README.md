@@ -3,7 +3,10 @@
 <h2>A Full Stack Software Developer</h2>
 
 - 👨‍💻 Projects 👉 [Projects](https://github.com/nattyengeda?tab=repositories)
-- 🕸  Portfolio 👉 [https://nattyengeda.github.io](https://nattyengeda.github.io)
+- 🕸  Portfolio 👉 [nattyengeda.github.io](https://nattyengeda.github.io)
+- 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
+---
+### Connect With ME: 
 <!--
 **NattyEngeda/nattyengeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
