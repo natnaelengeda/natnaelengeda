@@ -1,5 +1,8 @@
 <h1 align='center'>Natty Engeda ⚡</h1>
 <h2>This is my Github profile!</h2>
+<h2>A Full Stack Software Developer</h2>
+
+- 👨‍💻 Most of my personal projects are available at [https://github.com/nattyengeda?tab=repositories](https://github.com/nattyengeda?tab=repositories)
 <!--
 **NattyEngeda/nattyengeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
