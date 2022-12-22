@@ -7,14 +7,14 @@
 - 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
 ---
 ### Connect With Me:
-[![website](./img/globe-light.svg)](https://nuredinibrahim.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nuredinibrahim.netlify.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://nattyengeda.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://nattyengeda.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nuredin.10#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nuredin.10#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/nattyengeda#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/nattyengeda#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nuredin.10#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nuredin.10#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/nattyengeda#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/nattyengeda#gh-dark-mode-only)
