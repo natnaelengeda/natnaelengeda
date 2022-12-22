@@ -13,8 +13,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/nattyengeda#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/nattyengeda#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/natty-engeda-9202a51b7/)#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/natty-engeda-9202a51b7/)/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/natty-engeda-9202a51b7/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/natty-engeda-9202a51b7/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nattyengeda#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nattyengeda#gh-dark-mode-only)
