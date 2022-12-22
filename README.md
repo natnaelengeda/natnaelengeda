@@ -2,7 +2,8 @@
 <h2>This is my Github profile!</h2>
 <h2>A Full Stack Software Developer</h2>
 
-- 👨‍💻 Projects 👉 [https://github.com/nattyengeda?tab=repositories](https://github.com/nattyengeda?tab=repositories)
+- 👨‍💻 Projects 👉 [Projects](https://github.com/nattyengeda?tab=repositories)
+- 🕸  Portfolio 👉 [https://nattyengeda.github.io](https://nattyengeda.github.io)
 <!--
 **NattyEngeda/nattyengeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
