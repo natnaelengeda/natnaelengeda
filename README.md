@@ -20,7 +20,14 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/nattyengeda#gh-dark-mode-only)
 
 ---
-
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+---
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
