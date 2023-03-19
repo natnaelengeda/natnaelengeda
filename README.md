@@ -28,7 +28,9 @@
   <br />
 </div>
 ---
+
 ![Natty's github stats](https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&theme=dracula&hide=stars,issues)
+
 ---
 ### Languages and Tools:
 
