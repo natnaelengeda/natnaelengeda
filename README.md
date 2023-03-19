@@ -28,6 +28,8 @@
   <br />
 </div>
 ---
+![Natty's github stats](https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&theme=dracula&hide=stars,issues)
+---
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
