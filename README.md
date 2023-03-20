@@ -33,12 +33,14 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" />
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></div>
+&nbsp;
 <br/>
 ---
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" />
 <br/>
 ---
+&nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
 
 <br />
