@@ -33,13 +33,13 @@
 
 ---
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" />
 <br/>
 ---
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" /></p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" />
 <br/>
 ---
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
 
 <br />
 
