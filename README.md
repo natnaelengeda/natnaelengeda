@@ -59,33 +59,16 @@
 ![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)
 
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
- 
-  <br />
-  <br />
-</div>
 ---
 
-<!-- ![Natty's github stats](https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&theme=dracula&hide=stars,issues) -->
+<h2>Github Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" /></p>
 
+<h2>Most Used Languages</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></p>
 ---
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></div>
-&nbsp;
-<br/>
----
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" />
-<br/>
----
 &nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
 
 <br />
-
----
-
-### Languages and Tools:
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
