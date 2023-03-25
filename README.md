@@ -1,6 +1,6 @@
 <h1 >Natty Engeda ⚡</h1>
 <h2>Nice to Meet you , <br></h2>
-<p>I'm Natty Engeda, Full Stack Devloper from <img src="./logos/ethiopia-2.png" width="20" /> <b>Addis Ababa, Ethiopia</b></p>
+<p>I'm Natty Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
 
 <h3>Things I code with: </h3>
 <p>
