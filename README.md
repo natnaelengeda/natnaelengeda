@@ -1,4 +1,4 @@
-<h1 align='center'>Natty Engeda ⚡</h1>
+<h1 >Natty Engeda ⚡</h1>
 <h2>Nice to Meet you , <br></h2>
 <p>I'm Natty Engeda, Full Stack Devloper from <img src="./logos/ethiopia-2.png" width="20" /> <b>Addis Ababa, Ethiopia</b></p>
 
@@ -16,11 +16,11 @@
 <img alt="php" src="https://img.shields.io/badge/-php-4D588E?style=flat-square&logo=php&logoColor=white" />
 <img alt="laravel" src="https://img.shields.io/badge/-Laravel-E8392C?style=flat-square&logo=laravel&logoColor=white" />
 <img alt="flutter" src="https://img.shields.io/badge/-Flutter-66B1F1?style=flat-square&logo=flutter&logoColor=white" />
-<p>Databases</P>
+<h3>Databases</h3>
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4D588E?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-4D588E?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F29E12?style=flat-square&logo=firebase&logoColor=white" />
-<p>Tools</P>
+<h3>Tools</h3>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-8E6FFE?style=flat-square&logo=vite&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -60,13 +60,17 @@
 ---
 
 <h2>Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" /></p>
 
-<h2>Most Used Languages</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></p>
 ---
 
-&nbsp;
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
+<h2>Most Used Languages</h1>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></p>
 
-<br />
+---
+
+<h2>Contributions</h2>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
+
+---
