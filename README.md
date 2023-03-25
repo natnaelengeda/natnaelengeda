@@ -21,12 +21,12 @@
 <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-4D588E?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F29E12?style=flat-square&logo=firebase&logoColor=white" />
 <h3>Tools</h3>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-8E6FFE?style=flat-square&logo=vite&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></p>
 
 </p>
 
@@ -72,6 +72,10 @@
 
 <h2>Contributions</h2>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" /></p>
+
+<a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
 
 ---
