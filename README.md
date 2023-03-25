@@ -20,9 +20,7 @@
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4D588E?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-4D588E?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F29E12?style=flat-square&logo=firebase&logoColor=white" />
-
 <p>Tools</P>
-
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-8E6FFE?style=flat-square&logo=vite&logoColor=white" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
