@@ -3,10 +3,13 @@
 <h2>A Full Stack Software Developer</h2>
 
 - 👨‍💻 Projects 👉 [Projects](https://github.com/nattyengeda?tab=repositories)
-- 🕸  Portfolio 👉 [nattyengeda.github.io](https://nattyengeda.github.io)
+- 🕸 Portfolio 👉 [nattyengeda.github.io](https://nattyengeda.github.io)
 - 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
+
 ---
+
 ### Connect With Me:
+
 [![website](./img/globe-light.svg)](https://nattyengeda.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://nattyengeda.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -20,6 +23,11 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/nattyengeda#gh-dark-mode-only)
 
 ---
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![instagram](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=Instagram&logoColor=white)
+
 <div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
@@ -46,6 +54,7 @@
 <br />
 
 ---
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
