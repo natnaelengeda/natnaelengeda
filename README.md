@@ -58,10 +58,6 @@
 
 ---
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)
-
 ---
 
 <h2>Github Stats</h2>
