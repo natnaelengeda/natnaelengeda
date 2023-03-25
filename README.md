@@ -2,6 +2,15 @@
 <h2>Nice to Meet you , <br></h2>
 <p>I'm Natty Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
 
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+
 <h3>Things I code with: </h3>
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -41,7 +50,10 @@
 - 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
 
 ---
+<!-- 📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=nattyengeda&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+  
 🔗 &nbsp;**Connect with me**
 
 <p>
