@@ -66,21 +66,24 @@ This is the place where I Release and Test my Projects
 ---
 
 <h2>Github Stats</h2>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=nattyengeda&show_icons=true&locale=en" alt="nattyengeda" /></p>
+<p>![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/></p>
 
 ---
 
 <h2>Most Used Languages</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattyengeda&show_icons=true&locale=en&layout=compact" alt="nattyengeda" /></p>
+<p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</p>
 
 ---
 
 <h2>Contributions</h2>
 &nbsp;
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&" alt="nattyengeda" /></p>
+<p>![](https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&theme=dark&hide_border=true)<br/></p>
 
 <a href="https://www.buymeacoffee.com/natnaelengeda" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
 
 ---
+
+
+
