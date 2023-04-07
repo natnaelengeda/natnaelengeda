@@ -64,25 +64,21 @@ This is the place where I Release and Test my Projects
 <a href="https://dev.to/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ---
-
 <h2>Github Stats</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
 ---
-
 <h2>Most Used Languages</h1>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-
 <h2>Contributions</h2>
-&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&theme=dark&hide_border=true)<br/>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&theme=dark&hide_border=true)<br/>
 <a href="https://www.buymeacoffee.com/natnaelengeda" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
-
 ---
 
 
