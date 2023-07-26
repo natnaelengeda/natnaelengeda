@@ -67,6 +67,9 @@ This is the place where I Release and Test my Projects
 <h2>Github Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+<h2>Github Stats - Amharic</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nattyengeda&theme=highcontrast&border_radius=5.5&locale=am)](https://git.io/streak-stats) <br/>
 ---
 <h2>Most Used Languages</h1>
 
