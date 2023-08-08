@@ -66,6 +66,8 @@ This is the place where I Release and Test my Projects
 ---
 <h2>Github Stats</h2>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyEngeda&" alt="Aklilegetachew" /></p>
+
 ![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ---
