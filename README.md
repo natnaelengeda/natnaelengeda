@@ -64,7 +64,6 @@ You can find all my projects here
 ---
 <h2>Github Stats</h2>
 
-
 ![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ---
