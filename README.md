@@ -1,7 +1,7 @@
 <h1 >Natty Engeda ⚡</h1>
 <p>I'm Natty Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
 
-This is the place where I Release and Test my Projects
+You can find all my projects here
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Python, Vue
