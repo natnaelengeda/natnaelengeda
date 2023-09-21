@@ -7,7 +7,6 @@ You can find all my projects here
 - 🌱 &nbsp;I’m currently learning Python, Vue
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/C++ or /React/Vue/Express/Nodejs
 - 👨‍💻 &nbsp;Read more about my projects at [nattyengeda.com](https://nattyengeda.github.io/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Sleeping
 
 <h3>Things I code with: </h3>
 <p>
