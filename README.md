@@ -1,5 +1,4 @@
 <h1 >Natty Engeda ⚡</h1>
-<h2>Nice to Meet you , <br></h2>
 <p>I'm Natty Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
 
 This is the place where I Release and Test my Projects
