@@ -84,6 +84,4 @@ You can find all my projects here
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nattyengeda/nattyengeda/output/snake.svg" alt="Snake animation" />
-
 ###
