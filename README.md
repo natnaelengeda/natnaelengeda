@@ -6,7 +6,7 @@ You can find all my projects here
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Python, Vue
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/C++ or /React/Vue/Express/Nodejs
-- 👨‍💻 &nbsp;Read more about my projects at [nattyengeda.com](https://nattyengeda.github.io/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [nattyengeda.com](https://portfolio.alamondai.com/portfolio)
 
 <h3>Things I code with: </h3>
 <p>
