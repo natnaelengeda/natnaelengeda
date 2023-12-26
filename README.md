@@ -1,5 +1,5 @@
-<h1 >Natty Engeda ⚡</h1>
-<p>I'm Natty Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
+<h1 >Natnael Engeda ⚡</h1>
+<p>I'm Natnael Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
 
 You can find all my projects here
 
