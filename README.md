@@ -6,7 +6,7 @@ You can find all my projects here
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Python, Vue
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/C++ or /React/Vue/Express/Nodejs
-- 👨‍💻 &nbsp;Read more about my projects at [nattyengeda.com](https://portfolio.alamondai.com/portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [natnaelengeda.com](https://portfolio.alamondai.com/portfolio)
 
 <h3>Things I code with: </h3>
 <p>
@@ -42,39 +42,39 @@ You can find all my projects here
 
 <h2>A Full Stack Software Developer</h2>
 
-- 👨‍💻 Projects 👉 [Projects](https://github.com/nattyengeda?tab=repositories)
-- 🕸 Portfolio 👉 [nattyengeda.github.io](https://nattyengeda.github.io)
+- 👨‍💻 Projects 👉 [Projects](https://github.com/natnaelengeda?tab=repositories)
+- 🕸 Portfolio 👉 [natnaelengeda.github.io](https://natnaelengeda.github.io)
 - 🌎 Website 👉 [Alamondai](https://alamondai.vercel.app)
 
 ---
 
 <!-- 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=nattyengeda&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=natnaelengeda&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 🔗 &nbsp;**Connect with me**
 
 <p>
-<a href="https://t.me/nattyengeda" target="_black"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />    </a>
-<a href="https://instagram.com/nattyengeda" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+<a href="https://t.me/natnaelengeda" target="_black"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />    </a>
+<a href="https://instagram.com/natnaelengeda" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 <a href="https://www.linkedin.com/in/natnaelengeda" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-<a href="https://twitter.com/nattyengeda" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+<a href="https://twitter.com/natnaelengeda" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
 <a href="https://dev.to/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  /></a>
 
 ---
 <h2>Github Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=natnaelengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ---
 <h2>Most Used Languages</h1>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nattyengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelengeda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 <h2>Contributions</h2>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nattyengeda&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=natnaelengeda&theme=dark&hide_border=true)<br/>
 <a href="https://www.buymeacoffee.com/natnaelengeda" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
