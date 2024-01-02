@@ -41,8 +41,8 @@ You can find all my projects here
 
 <h2>A Full Stack Software Developer</h2>
 
-- 🌎 Website 👉 [Website](https://portfolio.alamondai.com)
-- 👨‍💻 Projects 👉 [Projects](https://portfolio.alamondai.com/portfolio)
+- 🌎 You can Find My Website 👉 [Website](https://portfolio.alamondai.com)
+- 👨‍💻 You can Look at My Projects 👉 [Projects](https://portfolio.alamondai.com/portfolio)
 
 ---
 
