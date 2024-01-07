@@ -3,7 +3,7 @@
 
 You can find all my projects here
 
-- 🔭 &nbsp;I’m currently working with Reactjs / Nextjs
+- 🔭 &nbsp;I’m currently working with Reactjs / Nextjs.
 - 🌱 &nbsp;I’m Specalize in JavaScript
 - 👨‍💻 &nbsp;Read more about my projects at [portfolio.alamondai.com](https://portfolio.alamondai.com/portfolio)
 
