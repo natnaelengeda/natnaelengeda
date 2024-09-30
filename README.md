@@ -5,7 +5,7 @@ You can find all my projects here
 
 - 🔭 &nbsp;I’m currently working with Reactjs / Nextjs.
 - 🌱 &nbsp;I’m Specalize in JavaScript
-- 👨‍💻 &nbsp;Read more about my projects at [portfolio.alamondai.com](https://portfolio.alamondai.com/portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [natnaelengeda.tech](https://www.natnaelengeda.tech/)
 
 <h3>Things I code with: </h3>
 <p>
