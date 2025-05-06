@@ -1,46 +1,10 @@
 <h1 >Natnael Engeda ⚡</h1>
-<p>I'm Natnael Engeda, Full Stack Developer from <img src="./logos/ethiopia-2.png" width="20" /> </p>
+<img src="./img/hero-image.png" width="100%" />
+<p>I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.Some technologies I enjoy working with include ReactJS, Nextjs, Nodejs/Express and Flutter. </p>
 
 You can find all my projects here
-
-- 🔭 &nbsp;I’m currently working with Reactjs / Nextjs.
-- 🌱 &nbsp;I’m Specalize in JavaScript
 - 👨‍💻 &nbsp;Read more about my projects at [natnaelengeda.tech](https://www.natnaelengeda.tech/)
-
-<h3>Things I code with: </h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="next logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" alt="laravel logo"  /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-
-<h3>Databases</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</p>
-
-<h3>Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</p>
-
-</p>
-
-<h2>A Full Stack Software Developer</h2>
-
-- 🌎 You can Find My Website 👉 [Website](https://www.natnaelengeda.tech/)
-- 👨‍💻 You can Look at My Projects 👉 [Projects](https://www.natnaelengeda.tech/portfolio)
-
 ---
-
-<!-- 📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=natnaelengeda&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 🔗 &nbsp;**Connect with me**
 
@@ -68,4 +32,3 @@ You can find all my projects here
 ---
 ###
 <br clear="both">
-###
